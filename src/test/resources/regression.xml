@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="bobak.regression.org">
+    <test name="Restful Booker Api Tests">
+        <classes>
+            <class name="tests.RestfulBookerApiTests"/>
+        </classes>
+    </test>
+    </suite>
